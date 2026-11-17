@@ -6,6 +6,9 @@ The **Used Car Price & Market Analysis Project** is a Data Analytics project foc
 
 The project uses Python-based data analysis techniques to identify pricing patterns, analyze vehicle characteristics, discover market trends, and generate meaningful insights that can help buyers and sellers make informed decisions.
 
+<img width="1347" height="893" alt="image" src="https://github.com/user-attachments/assets/8c5c2f6b-4a79-4047-b74d-9298cfae75d0" />
+
+
 ## 🎯 Project Objectives
 
 - Analyze used car pricing patterns.
