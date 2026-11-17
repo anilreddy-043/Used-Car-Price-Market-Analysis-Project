@@ -21,3 +21,39 @@ Compare prices across different fuel types and transmission systems.
 Identify market trends using data visualization.
 
 Generate actionable business insights.
+
+.
+
+🛠️ Technologies & Tools Used
+
+Technology
+
+Purpose
+
+Python
+
+Programming and analysis
+
+Pandas
+
+Data cleaning and manipulation
+
+NumPy
+
+Numerical computations
+
+Matplotlib
+
+Data visualization
+
+Seaborn
+
+Statistical visualization
+
+Jupyter Notebook
+
+Interactive analysis
+
+Git & GitHub
+
+Version control
